@@ -16,7 +16,7 @@ public class URLDepthPair {
 		this.depth = depth;
 	}
 	
-	// Возвращает строковое представление url и глубины
+	// Возвращает строковое представление url и глубины.
 	public String toString(){
 		String out = url + "\t" + depth;
 		return out;
