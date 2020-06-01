@@ -20,7 +20,7 @@ public class Lab1 {
 	    }
 	    
 	    public static void main(String[] args) {
-	    	// Запрос у пользователя координат точек
+	    	// Запрос у пользователя координат точек.
 	    	System.out.println("Введите координаты (x, y, z) Точки A");
 	    	double point1X = getDouble();
 	    	double point1Y = getDouble();
