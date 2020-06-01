@@ -35,7 +35,7 @@ public class Location
     		return false;
     }
     
-    /** Генерируется хешкод. **/
+    /** Генерируется хешкод **/
     public int hashCode() {
     	int hash = 11;
     	hash = 31 * hash + xCoord;
